@@ -58,5 +58,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Output of webpack
+dist/
+
 # vim tags
 tags
