@@ -1,7 +1,7 @@
 {
   "name": "y",
   "version": "1.0.0",
-  "description": "medium webpack 4 tutorial",
+  "description": "medium webpack 4 quick start",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
